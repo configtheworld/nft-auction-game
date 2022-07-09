@@ -1,5 +1,5 @@
 # nft-auction-game
-NFT auction simulation game for analysing basic and combinatorial auction models in NFT trade.
+Single-player simulation game for analyzing user interactions with bots for English and Combinatorial auction models in NFT trade.
 
 Developed for Graduation Project
 
